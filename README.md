@@ -1,3 +1,11 @@
+### A react progressive web app (PWA) for checking teamperature and weather conditions
+
+This is my first time creating a progressive web app hence a basic application.
+
+I have hosted the app too using netify.
+
+The link for the app is - https://festive-bhabha-f6acbe.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
