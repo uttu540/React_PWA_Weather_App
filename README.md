@@ -1,6 +1,6 @@
 ## Introduction
 
-### A react progressive web app (PWA) for checking teamperature and weather conditions
+### A react progressive web app (PWA) for checking temperature and weather conditions
 
 This is my first time creating a progressive web app hence a basic application.
 
